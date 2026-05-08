@@ -1,0 +1,9 @@
+# One Leonie Residences
+
+> One Leonie Residences — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/oneleonieresidences/
+
+## Pages
+
+- [One Leonie Residences](https://singaporenewproperty.github.io/oneleonieresidences/): One Leonie Residences property information.
